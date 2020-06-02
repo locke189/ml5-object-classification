@@ -4,7 +4,7 @@
   "description": "ML5 object classification demo",
   "main": "index.js",
   "scripts": {
-    "start": "parcel src/index.html",
+    "start": "parcel src/*.html --https",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
